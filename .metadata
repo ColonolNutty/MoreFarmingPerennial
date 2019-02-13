@@ -1,11 +1,11 @@
 {
   "author" : "ColonolNutty",
-  "description" : "DON'T USE THIS IF YOU ARE SUBSCRIBED TO THE PERENNIAL AND COMPACT PATCH!!\nTHIS REQUIRES \"CN MORE FARMING: REVITALIZATION\" LOOK FOR A LINK IN THE REQUIREMENTS SECTION TO THE RIGHT\n\nThis probably won't need much detail, so I'll keep it simple and short.\nThis patch changes all farmable crops from the \"CN More Farming: Revitalization\" mod to be Perennial.\n\nLet me know down in the comments if and when you run into issues. I haven't gone through each and every crop by hand due to the sheer number of them, so there are bound to be a few here and there.",
+  "description" : "DON'T USE THIS IF YOU ARE SUBSCRIBED TO THE PERENNIAL AND COMPACT PATCH!!\nTHIS REQUIRES \"CN MORE FARMING: REVITALIZATION\" LOOK FOR A LINK IN THE REQUIREMENTS SECTION TO THE RIGHT\nIf you enjoy the mod, consider donating to my patreon account [url=https://www.patreon.com/colonolnutty]here[/url].\n\nThis probably won't need much detail, so I'll keep it simple and short.\nThis patch changes all farmable crops from the \"CN More Farming: Revitalization\" mod to be Perennial.\n\nLet me know down in the comments if and when you run into issues. I haven't gone through each and every crop by hand due to the sheer number of them, so there are bound to be a few here and there.",
   "friendlyName" : "CN More Farming - Perennial Patch",
   "includes" : ["MoreFarming"],
   "link" : "steam://url/CommunityFilePage/1182340106",
   "name" : "MoreFarmingPerennial",
   "steamContentId" : "1182340106",
   "tags" : "Planets and Environments|Food and Farming|Mechanics",
-  "version" : "v1.0"
+  "version" : "v1.0.1"
 }
